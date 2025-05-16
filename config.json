@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "api_token": "7111689188:AAEeIaT23GleIrmVh2mWuZ2ePvnM6pO05WQ",
+  "chat_id": "1808483927",
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "דירות בהרצליה 2-3 חדרים עד 5500 ש״ח",
+      "url": "https://www.yad2.co.il/realestate/rent?priceOnly=1&topArea=19&area=18&city=6400&yad2_source=HP_all_latestSearches&minPrice=1500&maxPrice=5500&minRooms=2&maxRooms=3&zoom=12"
     }
   ]
 }
